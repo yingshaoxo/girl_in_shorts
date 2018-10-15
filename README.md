@@ -16,3 +16,6 @@ python3 tensorflow/tensorflow/examples/image_retraining/retrain.py --model_dir=t
 ```
 python3 label_from_screen.py
 ```
+
+#### Demo for Android
+https://github.com/yingshaoxo/girl_in_shorts_demo.git
